@@ -1,0 +1,2 @@
+double total=10000.0000000188
+integer total=10000 rupees (1000000 paise)

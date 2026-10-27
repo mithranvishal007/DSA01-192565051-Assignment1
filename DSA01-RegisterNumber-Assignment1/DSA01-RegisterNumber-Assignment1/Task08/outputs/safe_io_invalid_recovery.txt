@@ -1,0 +1,2 @@
+Zone (1=Inner, 2=Middle, 3=Outer): Invalid input. Enter an integer.
+Zone (1=Inner, 2=Middle, 3=Outer): Hour (0-23): Fare Rs 36.00

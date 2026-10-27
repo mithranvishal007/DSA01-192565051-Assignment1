@@ -1,0 +1,3 @@
+journeys=20000 integer_paise=72000000 double_rupees=720000.00 double_paise=72000000.00
+journeys=500000 integer_paise=1800000000 double_rupees=18000000.00 double_paise=1800000000.00
+journeys=3000000 integer_paise=10800000000 double_rupees=108000000.00 double_paise=10800000000.00

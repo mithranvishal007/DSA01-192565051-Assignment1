@@ -1,0 +1,5 @@
+PASS fare=0 paise balance=20000
+Fare paise=5400 accepted balance=14600
+Fare paise=2700 accepted balance=11900
+Airport weekday peak paise=7200
+Airport weekend paise=5400

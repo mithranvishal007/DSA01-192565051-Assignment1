@@ -1,0 +1,3 @@
+# Task 7 — Procedural versus Object-Oriented
+
+Both examples calculate and validate a fare. The procedural version passes balance and fare into free functions; the OOP version encapsulates the balance and exposes `canTravel`, `deduct`, and a read-only balance accessor. The class prevents negative/too-low balances because the only state-changing operation checks the rule before subtracting. A public balance member would let unrelated code assign a negative value or bypass the ₹50 minimum. Time and space remain O(1) per journey in either version. A minimum-balance change should be made once in `MIN_BALANCE`/`MIN_BALANCE_PAISE`; encapsulation helps ensure all deductions use the same validation.
