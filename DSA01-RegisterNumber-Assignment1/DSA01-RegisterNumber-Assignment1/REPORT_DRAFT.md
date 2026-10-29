@@ -3,7 +3,6 @@
 **Assignment title:** Design, Implement and Validate the Fare Logic of a City Metro Smart-Card System  
 **Student:** [Mithran Vishal M]  
 **Register number:** [192565051]  
-**GitHub repository:** [Paste your working repository URL after publishing]
 
 ## Environment and method
 Prepared for C++17. Compiler version in the preparation environment: g++ (Debian 14.2.0-19). Build command: `g++ -std=c++17 -Wall -Wextra -pedantic file.cpp -o program`. Each program should be recompiled and executed by the student before submission. The `outputs/` files record the outputs generated during this preparation run; replace generated output previews with genuine screenshots if required by faculty.
